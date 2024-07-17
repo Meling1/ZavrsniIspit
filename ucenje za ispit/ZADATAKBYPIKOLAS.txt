@@ -1,0 +1,28 @@
+Zadatak: Kreiranje Interaktivne Web Stranice
+Cilj
+Napravi jednostavnu web stranicu koja prikazuje popis zadataka (to-do list) s mogućnošću dodavanja novih zadataka i označavanja postojećih zadataka kao završenih.
+
+Upute
+HTML
+
+Kreiraj HTML strukturu koja sadrži:
+Naslov (h1) "To-Do Lista".
+Ulazno polje (input) za unos novog zadatka.
+Dugme (button) za dodavanje novog zadatka.
+Neporedan popis (ul) gdje će se prikazivati zadaci.
+CSS
+
+Stiliziraj stranicu koristeći CSS:
+Postavi boju pozadine stranice.
+Stiliziraj ulazno polje i dugme.
+Postavi stilove za neoznačene i označene zadatke (npr. zadaci označeni kao završeni mogu imati precrtani tekst).
+JavaScript
+
+Dodaj JavaScript funkcionalnost:
+Funkcija za dodavanje novog zadatka:
+Preuzmi vrijednost iz ulaznog polja.
+Dodaj novi zadatak kao stavku (li) u popisu zadataka.
+Isprazni ulazno polje nakon dodavanja zadatka.
+Funkcija za označavanje zadatka kao završenog:
+Omogući korisniku da klikne na zadatak kako bi ga označio kao završenog (dodavanjem klase ili mijenjanjem stila).
+Omogući ponovno klikanje na zadatak kako bi se označio kao nezavršen (uklanjanjem klase ili mijenjanjem stila).
